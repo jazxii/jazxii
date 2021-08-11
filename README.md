@@ -1,6 +1,7 @@
 ### Hi there 👋
-- 📚 Kotlin App Dev
-- 💻 Newbie Web Developer
+- 📚 Kotlin App Dev.
+- 💻 Newbie Web Developer..
+- ⚡ EEE
 
 <!--
 **jazxii/jazxii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
