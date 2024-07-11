@@ -1,6 +1,7 @@
 ### Hi there 👋
-- 📚 Kotlin App Dev.
-- 💻 Newbie Web Developer..
+- 📚 Kotlin App Dev. converting soon to Jetpack Compose
+- 🔭 I’m currently working on Python & Data Learning
+- 🌱 I’m currently learning SQL and Cloud Computing
 - ⚡ EEE
 
 <!--
