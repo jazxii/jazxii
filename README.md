@@ -48,7 +48,7 @@
 
 
 ### 🧩 Current Projects & Learning
-- 🧠 Building **Accessibility AI Agents** using **FastAPI + LLMs(API)**
+- 🧠 Building **Accessibility AI Agents** using **FastAPI + LLMs**
 - 📊 Learning **Data Engineering pipelines** with Python & SQL
 - 💻 Developing **React + Node.js** accessibility-enhanced web apps
 - ☁️ Exploring **AWS & Cloud Deployments** for personal projects
@@ -61,7 +61,7 @@
   <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR-EMAIL@example.com">
+  <a href="mailto:jassimmohammed2910@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/jazxii">
