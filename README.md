@@ -12,7 +12,7 @@
 💡 I love experimenting with **Python**, **FastAPI**, and **Django** to create smart solutions.  
 🌱 Currently diving deep into **Data Science**, **Machine Learning**, and the **Web Stack (Node.js, React, JS)**.  
 📱 Started my tech journey with **Kotlin App Development**, now transitioning to **Jetpack Compose** and cross-platform systems.  
-🎯 My goal — build intelligent, accessible, and data-driven systems that empower everyone.
+🎯 My goal — build intelligent, accessible, and data-driven systems that is inclusive to everyone.
 
 ---
 
@@ -48,7 +48,7 @@
 
 
 ### 🧩 Current Projects & Learning
-- 🧠 Building an **Accessibility AI Agent** using **FastAPI + LLMs**
+- 🧠 Building **Accessibility AI Agents** using **FastAPI + LLMs(API)**
 - 📊 Learning **Data Engineering pipelines** with Python & SQL
 - 💻 Developing **React + Node.js** accessibility-enhanced web apps
 - ☁️ Exploring **AWS & Cloud Deployments** for personal projects
